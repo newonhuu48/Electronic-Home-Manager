@@ -1,0 +1,15 @@
+Paid Tax Info:
+Company name: The Hasty Cleaners
+Employee name: Ivan Petrov
+
+Building district: Lyulin
+Building address: Manush Voyvoda 17
+
+Apartment floor: 6
+Apartment number: 1
+
+Tax amount: 240.0
+Tax date: 2024-02-02
+
+
+
